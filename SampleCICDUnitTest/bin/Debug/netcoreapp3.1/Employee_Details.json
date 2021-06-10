@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Name": "UserOne",
+    "Email": "userone@gmail.com",
+    "Address": "XXX,YYYY",
+    "Number": "0123654789"
+  },
+  {
+    "Id": 2,
+    "Name": "UserTwo",
+    "Email": "usertwo@gmail.com",
+    "Address": "XXX,YYYY",
+    "Number": "0123654789"
+  },
+  {
+    "Id": 3,
+    "Name": "UserThree",
+    "Email": "userthree@gmail.com",
+    "Address": "XXX,YYYY",
+    "Number": "0123654789"
+  },
+  {
+    "Id": 4,
+    "Name": "UserFour",
+    "Email": "userfour@gmail.com",
+    "Address": "XXX,YYYY",
+    "Number": "0123654789"
+  },
+  {
+    "Id" : 5,
+    "Name" : "UserFive",
+    "Email" : "userfive@gmail.com",
+    "Address" : "XXX,YYYY",
+    "Number" : "0123654789"
+  }
+]
